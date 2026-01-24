@@ -205,4 +205,4 @@ This CTF demonstrated:
 - Credential reuse for SSH access
 - Privilege escalation using misconfigured sudo permissions
 
-Well done 🎉
+
