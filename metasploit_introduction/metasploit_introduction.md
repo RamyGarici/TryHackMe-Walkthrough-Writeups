@@ -44,16 +44,6 @@ Main components of the Metasploit Framework:
 - Payload: Code that runs on the target system after exploitation to achieve the attacker's goal (shell, command execution, etc.).
 
 --------------------------------------------------------
-   Answers
---------------------------------------------------------
-
-Q: What is the name of the code taking advantage of a flaw on the target system?
-A: Exploit
-
-Q: What is the name of the code that runs on the target system to achieve the attacker's goal?
-A: Payload
-
---------------------------------------------------------
 3. Metasploit Module Categories
 --------------------------------------------------------
 
@@ -104,15 +94,6 @@ Staged payload example:
 Rule:
 - “_” often indicates single (inline) payload
 - “/” often indicates staged payload components
-
---------------------------------------------------------
-   Answers
---------------------------------------------------------
-Q: What are self-contained payloads called?
-A: Singles
-
-Q: Is "windows/x64/pingback_reverse_tcp" among singles or staged payload?
-A: Singles
 
 ### Post
 Post modules are used after exploitation (post-exploitation): enumeration, privilege escalation, persistence, etc.
@@ -183,15 +164,7 @@ Example (Apache):
 ```bash
 search Apache
 ```
---------------------------------------------------------
-   Answers
---------------------------------------------------------
 
-Q: How would you search for a module related to Apache?
-A: search Apache
-
-Q: Who provided the auxiliary/scanner/ssh/ssh_login module?
-A: todb
 
 --------------------------------------------------------
 7. Working With Contexts (Prompts)
@@ -303,8 +276,41 @@ sessions -i <session_id>
 ```
 
 --------------------------------------------------------
-10.Questions
+11. Exploitation Workflow
 --------------------------------------------------------
+
+The exploitation process comprises three main steps:
+
+1) Finding the exploit  
+2) Customizing the exploit  
+3) Exploiting the vulnerable service  
+
+========================================================
+--------------------------------------------------------
+   Answers
+--------------------------------------------------------
+Q: What is the name of the code taking advantage of a flaw on the target system?
+
+A: Exploit
+
+Q: What is the name of the code that runs on the target system to achieve the attacker's goal?
+
+A: Payload
+
+Q: What are self-contained payloads called?
+A: Singles
+
+Q: Is "windows/x64/pingback_reverse_tcp" among singles or staged payload?
+
+A: Singles
+
+Q: How would you search for a module related to Apache?
+
+A: search Apache
+
+Q: Who provided the auxiliary/scanner/ssh/ssh_login module?
+
+A: todb
 
 Q: How would you set the LPORT value to 6666?
 A:
@@ -329,15 +335,3 @@ A:
 ```bash
 exploit
 ```
-
---------------------------------------------------------
-11. Exploitation Workflow
---------------------------------------------------------
-
-The exploitation process comprises three main steps:
-
-1) Finding the exploit  
-2) Customizing the exploit  
-3) Exploiting the vulnerable service  
-
-========================================================
