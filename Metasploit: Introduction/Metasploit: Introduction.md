@@ -6,6 +6,7 @@ Room: Metasploit - Introduction
 
 Platform: TryHackMe  
 Category: Exploitation Framework / Pentesting Basics  
+Difficulty: Easy
 Tool: Metasploit Framework  
 
 --------------------------------------------------------
