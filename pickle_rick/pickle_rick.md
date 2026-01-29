@@ -21,7 +21,7 @@ nmap -sV -sC target_ip
 
 This indicates that a web application is running and that SSH access may be possible later if valid credentials are found.
 
-![nmap scan](nmapscan.png)
+![nmap scan](nmap.png)
 
 ---
 
