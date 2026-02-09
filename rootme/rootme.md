@@ -151,7 +151,7 @@ This command searches the entire filesystem while suppressing error messages.
 We find the user flag:
 
 ```
-THM{0u_g0t_a_sh3ll}
+THM{y0u_g0t_a_sh3ll}
 ```
 
 ---
@@ -225,7 +225,7 @@ A: **SSH**
 A: **/panel/**
 
 **Q: Find a form to upload and get a reverse shell, and find the flag.**  
-A: **THM{0u_g0t_a_sh3ll}**
+A: **THM{y0u_g0t_a_sh3ll}**
 
 **Q: Search for files with SUID permission, which file is weird?**  
 A: **/usr/bin/python**
