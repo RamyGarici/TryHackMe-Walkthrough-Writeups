@@ -192,7 +192,7 @@ We execute the following command:
 
 This spawns a shell with **root privileges**.
 
-![rootpriv](rootpriv.txt)
+![rootpriv](rootpriv.png)
 
 ---
 
