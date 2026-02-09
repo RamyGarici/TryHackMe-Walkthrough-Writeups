@@ -15,6 +15,7 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [Network Services](./NetworkServices.md) | Easy | Introduction to common network services such as SMB, FTP, Telnet, and SSH | Room |
 |  [Toolbox: Vim](./toolbox_vim/toolbox_vim.md) | Easy | Practical introduction to Vim basics including modes, navigation, editing, saving, and search operations| Room |
 | [Pickle Rick](./pickle_rick/pickle_rick.md) | Easy | Rick and Morty–themed CTF involving web enumeration, command execution, and privilege escalation | CTF |
+|[RootMe](./rootme/rootme.md)| Easy | Web exploitation and privilege escalation using file upload bypass and SUID misconfiguration| CTF |
 
 
 
