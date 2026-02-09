@@ -1,4 +1,4 @@
-# RootMe - TryHackMe Write
+# RootMe - TryHackMe WriteUp
 
 > **Link** https://tryhackme.com/room/rrootme  
 > **Difficulty**: Easy
