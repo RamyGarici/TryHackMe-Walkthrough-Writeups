@@ -69,7 +69,7 @@ After running Gobuster, we discovered several subdomains. We add them to
 
 Two subdomains are only accessible via VPN:
 
--   payroll.futurevera.thm\
+-   payroll.futurevera.thm
 -   portal.futurevera.thm
 
 ![Added Subdomains](./add.png)
@@ -78,7 +78,7 @@ Two subdomains are only accessible via VPN:
 
 ### 5. Check the Support Page
 
-We focus on the support subdomain.
+According to the CEO's message, they are rebuilding the support system. So, we focus on the support subdomain. After adding it to /etc/hosts, we encounter a warning page, suggesting something is not correctly configured.
 
 ![Support Page Warning](./support.png)
 
