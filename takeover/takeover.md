@@ -1,6 +1,6 @@
 # TakeOver
 
-![Logo](./Logo.png)
+![Logo](./logo.png)
 
 This challenge revolves around subdomain enumeration.
 
@@ -58,7 +58,7 @@ We use Gobuster for subdomain enumeration:
 gobuster vhost -t 50 -u futurevera.thm -w /usr/share/wordlists/subdomains-top1million-110000.txt --append-domain
 ```
 
-![Gobuster Results](./gobuster.png)
+
 
 ------------------------------------------------------------------------
 
