@@ -65,7 +65,11 @@ the developers):
 However, if we use an invalid ID such as `aaa`, the application leaks
 sensitive information:
 
+
 ![Flag Leak](./flag.png)
+
+
+
 
 **Flag:**\
 `THM{V3RB0S3_3RR0R_L34K}`
@@ -149,7 +153,13 @@ We find an encoded message.
 By inspecting the source code, we discover:
 
 /static/js/decrypt.js
+
 ![Script](./script.png)
+
+
+
+
+
 The script contains:
 
 -   AES algorithm\
@@ -196,7 +206,11 @@ We discovered:
 /admin
 
 This endpoint exposed the admin access key.
+
+
 ![Flag](./flag2.png)
+
+
 **Flag:**\
 `THM{1NS3CUR3_D35IGN_4SSUMPT10N}`
 
