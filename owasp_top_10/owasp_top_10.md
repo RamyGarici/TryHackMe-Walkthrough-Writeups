@@ -98,7 +98,7 @@ This challenge was more difficult than the previous one.
 
 First, we needed to download and analyze the Python script.
 
-![Python Script](./python.py)
+![Python Script](./python.png)
 
 The endpoint:
 
