@@ -142,7 +142,7 @@ Access:
 
 MACHINE_IP:5004
 
-![Challenge Page](./chal.png)
+
 
 We find an encoded message.
 
