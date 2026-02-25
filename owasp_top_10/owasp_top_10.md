@@ -149,7 +149,7 @@ We find an encoded message.
 By inspecting the source code, we discover:
 
 /static/js/decrypt.js
-
+![Script](./script.png)
 The script contains:
 
 -   AES algorithm\
@@ -158,6 +158,7 @@ The script contains:
 -   Base64 encoding
 
 By reproducing the decryption steps in CyberChef, we decode the message.
+![Flag](./flag3.png)
 
 **Flag:**\
 `THM{CRYPTO_FAILURE_H4RDCOD3D_K3Y}`
@@ -183,7 +184,7 @@ We found:
 
 /api/users
 
-![Users Endpoint](./user.png)
+
 
 Since it is a chat app, we enumerated additional endpoints:
 
@@ -195,7 +196,7 @@ We discovered:
 /admin
 
 This endpoint exposed the admin access key.
-
+![Flag](./flag2.png)
 **Flag:**\
 `THM{1NS3CUR3_D35IGN_4SSUMPT10N}`
 
