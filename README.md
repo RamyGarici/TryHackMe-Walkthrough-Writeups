@@ -18,6 +18,6 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [RootMe](./rootme/rootme.md) | Easy | Web exploitation and privilege escalation using file upload bypass and SUID misconfiguration | CTF |
 | [TakeOver](./takeover/takeover.md) | Easy | Subdomain enumeration leading to the discovery of a vulnerable S3 subdomain | CTF |
 | [OWASP Top 10 2025: Application Design Flaws](./owasp_top_10/owasp_top_10.md) | Easy | Overview of OWASP Top 10 2025 risks including cryptographic failures, injection, and Software or Data Integrity Failures | Room |
-| [Vulnversity](./Vulnversity_Writeup.md) | Easy | Active reconnaissance, web exploitation via file upload bypass, and privilege escalation using SUID misconfiguration | Room |
+| [Vulnversity](./vulnversity/vulnversity.md) | Easy | Active reconnaissance, web exploitation via file upload bypass, and privilege escalation using SUID misconfiguration | Room |
 
 ---
