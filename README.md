@@ -20,5 +20,6 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [OWASP Top 10 2025: Application Design Flaws](./owasp_top_10/owasp_top_10.md) | Easy | Overview of OWASP Top 10 2025 risks including cryptographic failures, injection, and Software or Data Integrity Failures | Room |
 | [Vulnversity](./vulnversity/vulnversity.md) | Easy | Active reconnaissance, web exploitation via file upload bypass, and privilege escalation using SUID misconfiguration | Room |
 | [Crack The Hash](./crack_the_hash/crack_the_hash.md) | Easy | Hash cracking challenges using common algorithms, salts, and password recovery techniques | Room |
+| [Basic Pentesting](./basic_pentesting/basicpentesting.md) | Easy | Enumeration of web and SMB services, SSH brute forcing, and privilege escalation using a cracked RSA key | CTF |
 
 ---
