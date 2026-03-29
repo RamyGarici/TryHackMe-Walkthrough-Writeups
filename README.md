@@ -24,5 +24,6 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [Invite Only](./invite_only/invite_only.md) | Easy | Threat intelligence investigation involving IOC analysis, malware tracing, and OSINT research on AsyncRAT campaign | Room |
 | [Intro to LAN](./intro_to_lan/intro_to_lan.md) | Easy | Introduction to LAN concepts including topologies, switching, routing, subnetting, ARP, and DHCP | Room |
 | [Intro to Cross-Site Scripting](./intro_to_xss/intro_to_xss.md) | Easy | Introduction to XSS including reflected, stored, DOM-based, and blind XSS with payloads and practical exploitation | Room |
+| [OSI Model](./osi_model/osi_model.md) | Info | Introduction to the OSI model, its 7 layers, and how data flows through networks | Room |
 
 ---
