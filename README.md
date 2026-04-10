@@ -25,5 +25,6 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [Intro to LAN](./intro_to_lan/intro_to_lan.md) | Easy | Introduction to LAN concepts including topologies, switching, routing, subnetting, ARP, and DHCP | Room |
 | [Intro to Cross-Site Scripting](./intro_to_xss/intro_to_xss.md) | Easy | Introduction to XSS including reflected, stored, DOM-based, and blind XSS with payloads and practical exploitation | Room |
 | [OSI Model](./osi_model/osi_model.md) | Info | Introduction to the OSI model, its 7 layers, and how data flows through networks | Room |
+| [IDOR](./IDOR/IDOR.md) | Easy | Introduction to Insecure Direct Object References, including enumeration, exploitation, and access control bypass techniques | Room |
 
 ---
