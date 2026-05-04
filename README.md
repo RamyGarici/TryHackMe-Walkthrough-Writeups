@@ -26,5 +26,6 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [Intro to Cross-Site Scripting](./intro_to_xss/intro_to_xss.md) | Easy | Introduction to XSS including reflected, stored, DOM-based, and blind XSS with payloads and practical exploitation | Room |
 | [OSI Model](./osi_model/osi_model.md) | Info | Introduction to the OSI model, its 7 layers, and how data flows through networks | Room |
 | [IDOR](./IDOR/IDOR.md) | Easy | Introduction to Insecure Direct Object References, including enumeration, exploitation, and access control bypass techniques | Room |
+| [AI Threat Modelling](./ai_threat_modelling/ai_threat_modelling.md) | Medium | Introduction to AI security concepts including STRIDE for AI, MITRE ATLAS, OWASP LLM Top 10, and AI supply chain threats | Room |
 
 ---
