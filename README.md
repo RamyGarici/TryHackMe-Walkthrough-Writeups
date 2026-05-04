@@ -21,7 +21,7 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [Vulnversity](./vulnversity/vulnversity.md) | Easy | Active reconnaissance, web exploitation via file upload bypass, and privilege escalation using SUID misconfiguration | Room |
 | [Crack The Hash](./crack_the_hash/crack_the_hash.md) | Easy | Hash cracking challenges using common algorithms, salts, and password recovery techniques | Room |
 | [Basic Pentesting](./basic_pentesting/basicpentesting.md) | Easy | Enumeration of web and SMB services, SSH brute forcing, and privilege escalation using a cracked RSA key | CTF |
-| [Invite Only](./invite_only/invite_only.md) | Easy | Threat intelligence investigation involving IOC analysis, malware tracing, and OSINT research on AsyncRAT campaign | Room |
+| [Invite Only](./invite_only/invite_only.md) | Easy | Threat intelligence investigation involving IOC analysis, malware tracing, and OSINT research on AsyncRAT campaign | CTF |
 | [Intro to LAN](./intro_to_lan/intro_to_lan.md) | Easy | Introduction to LAN concepts including topologies, switching, routing, subnetting, ARP, and DHCP | Room |
 | [Intro to Cross-Site Scripting](./intro_to_xss/intro_to_xss.md) | Easy | Introduction to XSS including reflected, stored, DOM-based, and blind XSS with payloads and practical exploitation | Room |
 | [OSI Model](./osi_model/osi_model.md) | Info | Introduction to the OSI model, its 7 layers, and how data flows through networks | Room |
