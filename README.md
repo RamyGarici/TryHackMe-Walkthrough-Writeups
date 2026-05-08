@@ -27,5 +27,6 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [OSI Model](./osi_model/osi_model.md) | Info | Introduction to the OSI model, its 7 layers, and how data flows through networks | Room |
 | [IDOR](./IDOR/IDOR.md) | Easy | Introduction to Insecure Direct Object References, including enumeration, exploitation, and access control bypass techniques | Room |
 | [AI Threat Modelling](./ai_threat_modelling/ai_threat_modelling.md) | Medium | Introduction to AI security concepts including STRIDE for AI, MITRE ATLAS, OWASP LLM Top 10, and AI supply chain threats | Room |
+| [AI/ML Security Threats](./aiml_security/aiml_security.md) | Easy | Introduction to AI and machine learning security concepts including LLMs, prompt injection, model theft, data poisoning, and defensive AI techniques | Room |
 
 ---
