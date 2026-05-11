@@ -29,5 +29,6 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [AI Threat Modelling](./ai_threat_modelling/ai_threat_modelling.md) | Medium | Introduction to AI security concepts including STRIDE for AI, MITRE ATLAS, OWASP LLM Top 10, and AI supply chain threats | Room |
 | [AI/ML Security Threats](./aiml_security/aiml_security.md) | Easy | Introduction to AI and machine learning security concepts including LLMs, prompt injection, model theft, data poisoning, and defensive AI techniques | Room |
 | [Principles of Security](./security_principles/security_principles.md) | Easy | Introduction to core security concepts including the CIA triad, PIM/PAM, Bell-LaPadula, Biba, STRIDE, and incident response | Room |
+| [Windows Threat Detection 1](./windows_threat_detection_1/windows_threat_detection_1.md) | Easy | Introduction to Windows threat detection including phishing, RDP brute force attacks, malicious LNK files, USB malware propagation, and MITRE ATT&CK initial access techniques | Room |
 
 ---
