@@ -1,15 +1,15 @@
-# Packet and Frames --- TryHackMe
+# Packets and Frames --- TryHackMe
 
 **Platform:** TryHackMe\
 **Type:** Room\
 **Difficulty:** Easy\
-**Name:** Packet and Frames
+**Name:** Packets and Frames
 
 ------------------------------------------------------------------------
 
 ## Questions & Answers
 
-### Packet and Frames
+### Packets and Frames
 
 Q: What is the name for a piece of data when it does have IP addressing information?  
 A: Packet
