@@ -30,5 +30,6 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [AI/ML Security Threats](./aiml_security/aiml_security.md) | Easy | Introduction to AI and machine learning security concepts including LLMs, prompt injection, model theft, data poisoning, and defensive AI techniques | Room |
 | [Principles of Security](./security_principles/security_principles.md) | Easy | Introduction to core security concepts including the CIA triad, PIM/PAM, Bell-LaPadula, Biba, STRIDE, and incident response | Room |
 | [Windows Threat Detection 1](./windows_threat_detection_1/windows_threat_detection_1.md) | Easy | Introduction to Windows threat detection including phishing, RDP brute force attacks, malicious LNK files, USB malware propagation, and MITRE ATT&CK initial access techniques | Room |
+| [Packets & Frames](./packets_and_frames/packets_and_frames.md) | Easy | Introduction to packets and frames, encapsulation, MAC addressing, Ethernet communication, and how data is transmitted across networks | Room |
 
 ---
