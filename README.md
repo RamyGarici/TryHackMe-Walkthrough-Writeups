@@ -31,5 +31,6 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [Principles of Security](./security_principles/security_principles.md) | Easy | Introduction to core security concepts including the CIA triad, PIM/PAM, Bell-LaPadula, Biba, STRIDE, and incident response | Room |
 | [Windows Threat Detection 1](./windows_threat_detection_1/windows_threat_detection_1.md) | Easy | Introduction to Windows threat detection including phishing, RDP brute force attacks, malicious LNK files, USB malware propagation, and MITRE ATT&CK initial access techniques | Room |
 | [Packets & Frames](./packet_frames/packet_frames.md) | Easy | Introduction to packets and frames, encapsulation, MAC addressing, Ethernet communication, and how data is transmitted across networks | Room |
+| [Linux Fundamentals Part 2](./linux_part2/linux_part2.md) | Easy | Introduction to Linux fundamentals including file permissions, users and groups, package management, processes, and shell utilities | Room |
 
 ---
