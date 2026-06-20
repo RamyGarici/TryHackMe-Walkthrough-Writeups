@@ -33,5 +33,5 @@ This repository contains **TryHackMe rooms walkthroughs and CTF write-ups**.
 | [Packets & Frames](./packet_frames/packet_frames.md) | Easy | Introduction to packets and frames, encapsulation, MAC addressing, Ethernet communication, and how data is transmitted across networks | Room |
 | [Linux Fundamentals Part 2](./linux_part2/linux_part2.md) | Easy | Introduction to Linux fundamentals including file permissions, users and groups, package management, processes, and shell utilities | Room |
 | [Extending Your Network](./extending_network/extending_network.md) | Easy | Introduction to network expansion concepts including VPNs, VLANs, proxies, port forwarding, and secure remote connectivity | Room |
-
+| [Windows PowerShell](./windows_powershell/windows_powershell.md) | Easy | Introduction to Windows PowerShell including cmdlets, object-oriented piping, filesystem interaction, and basic automation scripting | Room |
 ---
